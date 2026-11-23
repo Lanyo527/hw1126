@@ -1,0 +1,1 @@
+this launch setting support cpp11
